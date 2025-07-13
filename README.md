@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Min Phanith</h1>
-<h3 align="center">A passionate IT engineering student  at RUPP</h3>
+<h3 align="center">A passionate IT engineering student at RUPP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Web Development, Cybersecurity, and Networking**
+- 🌱 I’m currently learning **Web Development, Cybersecurity, Networking, and Systems Programming**
 - 🎓 I’m a 2nd-year IT Engineering student at **Royal University of Phnom Penh**
 - 🛠️ I’m building: Full-stack apps using **React, FastAPI, MySQL**
 - ⚡ Fun fact: I love hacking but I do only coding.
@@ -24,21 +24,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Immonkei&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Immonkei&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/min-phanith-5a57ba33b" target="_blank">
+  <a href="https://www.linkedin.com/in/min-phanith-5a57ba33b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:minphanith11@gmail.com">
