@@ -37,12 +37,4 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/min-phanith-5a57ba33b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:minphanith11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+
