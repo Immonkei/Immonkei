@@ -22,7 +22,7 @@
 - 🔹 [**RSA Encryption Website**](https://github.com/immonkei/RSA-Project-Web) (React + Cryptography basics)
 - 🔹 [**Healthcare Management System**](https://github.com/Immonkei/Healthcare-Management-System) (Java Swing + JDBC + MySQL)  
 - 🔹 [**Employees EMS**](https://github.com/Immonkei/Employees_EMS) (Java Swing + JDBC + MySQL)
-- - 🔹 **RUPP New Website** – Assisted in developing the **Royal University of Phnom Penh’s new website** using **WordPress + Elementor** 
+- 🔹 **RUPP New Website** – Assisted in developing the **Royal University of Phnom Penh’s new website** using **WordPress + Elementor** 
 
 ---
 
