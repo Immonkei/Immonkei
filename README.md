@@ -19,7 +19,9 @@
 - 🔹 [**Thrive – AI Job Recommendation System**](https://github.com/immonkei/ProjectPracticumYear2) (React + FastAPI + ML + MySQL)  
 - 🔹 [**Nham_Ey – Food Recommendation App**](https://github.com/immonkei/Nham_Ey) (React + Tailwind + Wishlist system)  
 - 🔹 [**Task Management API**](https://github.com/immonkei/Task-Management-API) (Node.js + MySQL + JWT + Swagger)  
-- 🔹 [**RSA Encryption Website**](https://github.com/immonkei/RSA-Project-Web) (React + Cryptography basics)  
+- 🔹 [**RSA Encryption Website**](https://github.com/immonkei/RSA-Project-Web) (React + Cryptography basics)
+- 🔹 [**Healthcare Management System**](https://github.com/Immonkei/Healthcare-Management-System) (Java Swing + JDBC + MySQL)  
+- 🔹 [**Employees EMS**](https://github.com/Immonkei/Employees_EMS) (Java Swing + JDBC + MySQL)  
 
 ---
 
