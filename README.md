@@ -16,13 +16,13 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [**Thrive – AI Job Recommendation System**](https://github.com/immonkei/ProjectPracticumYear2) (React + FastAPI + ML + MySQL)  
-- 🔹 [**Nham_Ey – Food Recommendation App**](https://github.com/immonkei/Nham_Ey) (React + Tailwind + Wishlist system)  
-- 🔹 [**Task Management API**](https://github.com/immonkei/Task-Management-API) (Node.js + MySQL + JWT + Swagger)  
-- 🔹 [**RSA Encryption Website**](https://github.com/immonkei/RSA-Project-Web) (React + Cryptography basics)
-- 🔹 [**Healthcare Management System**](https://github.com/Immonkei/Healthcare-Management-System) (Java Swing + JDBC + MySQL)  
-- 🔹 [**Employees EMS**](https://github.com/Immonkei/Employees_EMS) (Java Swing + JDBC + MySQL)
-- 🔹 **RUPP New Website** – Assisted in developing the **Royal University of Phnom Penh’s new website** using **WordPress + Elementor** 
+🔹 [**Thrive – AI Job Recommendation System**](https://github.com/immonkei/ProjectPracticumYear2) (React + FastAPI + ML + MySQL)  
+🔹 [**Nham_Ey – Food Recommendation App**](https://github.com/immonkei/Nham_Ey) (React + Tailwind + Wishlist system)  
+🔹 [**Task Management API**](https://github.com/immonkei/Task-Management-API) (Node.js + MySQL + JWT + Swagger)  
+🔹 [**RSA Encryption Website**](https://github.com/immonkei/RSA-Project-Web) (React + Cryptography basics)
+🔹 [**Healthcare Management System**](https://github.com/Immonkei/Healthcare-Management-System) (Java Swing + JDBC + MySQL)  
+🔹 [**Employees EMS**](https://github.com/Immonkei/Employees_EMS) (Java Swing + JDBC + MySQL)
+🔹 **RUPP New Website** – Assisted in developing the **Royal University of Phnom Penh’s new website** using **WordPress + Elementor** 
 
 ---
 
@@ -34,10 +34,10 @@
 ---
 
 ## 🎯 Goals for 2025
-- 🔹 Become **job-ready as a Junior Backend Developer** (Spring Boot / Node.js)  
-- 🔹 Contribute to **open-source projects**  
-- 🔹 Land an **internship in backend or IT support**  
-- 🔹 Build strong foundations for my **future career in Cybersecurity**  
+🔹 Become **job-ready as a Junior Backend Developer** (Spring Boot / Node.js)  
+🔹 Contribute to **open-source projects**  
+🔹 Land an **internship in backend or IT support**  
+🔹 Build strong foundations for my **future career in Cybersecurity**  
 
 ---
 
