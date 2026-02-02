@@ -158,13 +158,15 @@ const phanith = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immonkei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immonkei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Immonkei&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Immonkei&layout=compact&theme=tokyonight" />
+
+" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immonkei&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
